@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Dhruv Bhardwaj</h1>
 <h3 align="center">Just a programmer with ambitions in mind and keyboard in hand</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruvbhardwaj&label=Profile%20views&color=0e75b6&style=flat" alt="dhruvbhardwaj" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruvbhardwaj14&label=Profile%20views&color=0e75b6&style=flat" alt="dhruvbhardwaj" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhruvbhardwaj" alt="dhruvbhardwaj" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhruvbhardwaj14" alt="dhruvbhardwaj" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [linkedin.com/Dhruvbhardwaj14](https://www.linkedin.com/in/dhruvbhardwaj14)
 
@@ -12,7 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/dhruvbhardwaj14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhruv-bhardwaj" height="30" width="40" /></a>
-<a href="https://fb.com/dhruvbhardwaj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dhruvbhardwaj" height="30" width="40" /></a>
+<a href="https://www.facebook.com/dhruv.bhardwaj.758/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dhruvbhardwaj" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/ruthless_db" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="dhruv416" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/db_hunter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="demolisher_dhruv" height="30" width="40" /></a>
 </p>
@@ -35,8 +35,8 @@
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhruvbhardwaj&show_icons=true&locale=en&layout=compact" alt="dhruvbhardwaj" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhruvbhardwaj14&show_icons=true&locale=en&layout=compact" alt="dhruvbhardwaj" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dhruvbhardwaj&show_icons=true&locale=en" alt="dhruvbhardwaj" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dhruvbhardwaj14&show_icons=true&locale=en" alt="dhruvbhardwaj" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhruvbhardwaj&" alt="dhruvbhardwaj" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhruvbhardwaj14&" alt="dhruvbhardwaj" /></p>
