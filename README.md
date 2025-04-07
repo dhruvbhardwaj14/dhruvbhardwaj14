@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhruvbhardwaj" alt="dhruvbhardwaj" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [LinkedIn](https://www.linkedin.com/in/dhruv-bhardwaj)
+- 👨‍💻 All of my projects are available at [linkedin.com/Dhruvbhardwaj14](https://www.linkedin.com/in/dhruvbhardwaj14)
 
-- 📫 How to reach me **your-email@example.com**
+- 📫 How to reach me dhruvmca24@cs.du.ac.in
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
